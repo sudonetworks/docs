@@ -44,13 +44,13 @@ Table of Contents
    :maxdepth: 2
    :caption: Network Vendors Terms
 
-   Cisco Glossary network_vendors/cisco/glossary
-   Juniper Glossary network_vendors/juniper/glossary
-   Palo Alto Glossary network_vendors/paloalto/glossary
+   network_vendors/cisco/glossary
+   network_vendors/juniper/glossary
+   network_vendors/paloalto/glossary
 
    :caption: Cloud Providers Terms
 
-   AWS Glossary cloud_providers/aws/glossary
-   Azure Glossary cloud_providers/azure/glossary
-   GCP Glossary cloud_providers/gcp/glossary
+   cloud_providers/aws/glossary
+   cloud_providers/azure/glossary
+   cloud_providers/gcp/glossary
 
