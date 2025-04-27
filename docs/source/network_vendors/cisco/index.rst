@@ -1,16 +1,14 @@
 Cisco
 =====
 
-This section provides documentation for Amazon Web Services.
+This section provides documentation for Cisco Technologies.
 
-Devices Types
-=============
 
 .. toctree::
-   :maxdepth: 1
+  :maxdepth: 2
+  :glob:
 
-   firewalls
-   routers
-   switches
-   # Add other AWS services here
-
+  firewalls/index
+  routers/index
+  switches/index
+  how-to-guide/index
