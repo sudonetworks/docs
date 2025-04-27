@@ -3,9 +3,6 @@ Cloud Providers
 
 This section provides documentation for various cloud service providers.
 
-Providers
-=========
-
 .. toctree::
    :maxdepth: 1
 
