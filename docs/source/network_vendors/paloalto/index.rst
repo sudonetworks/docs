@@ -1,10 +1,8 @@
-Vendor A
-========
+Palo Alto
+=========
 
 This section provides documentation for Vendor A's products and technologies.
 
-Products
-========
 
 .. toctree::
    :maxdepth: 1
