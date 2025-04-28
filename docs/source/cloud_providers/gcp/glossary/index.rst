@@ -12,11 +12,14 @@ Glossary
 --------
 
 .. glossary::
-    Term 1
-        Definition of term 1.  This can span multiple lines.
+    Data Sovereignty
+        refre to the legal concept that data is subnect
+        to the laws & regulations of the country where it resides.
+        - Example: GDPR in EU
 
-    Term 2
-        Definition of term 2.
+    Data residency
+        refers to the physical location where the data is stored
+        or processed.
 
     Another Term
         A longer definition for another term.  This shows how
