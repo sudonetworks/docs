@@ -31,8 +31,19 @@ Table of Contents
 
 .. toctree::
    :maxdepth: 2
-
+   :caption: Networking
+   
    network_vendors/index
+   concepts/index
+   howtos/index
+   api/index
+   glossary
+   contribute
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Cloud   
+
    cloud_providers/index
    concepts/index
    howtos/index
@@ -48,6 +59,8 @@ Table of Contents
    network_vendors/juniper/glossary
    network_vendors/paloalto/glossary
 
+.. toctree::
+   :maxdepth: 2
    :caption: Cloud Providers Terms
 
    cloud_providers/aws/glossary
