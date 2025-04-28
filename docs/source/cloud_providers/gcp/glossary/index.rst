@@ -1,7 +1,12 @@
 GCP Terms
 =========
 
-This file demonstrates how to create a glossary in reStructuredText using Sphinx.
+GCP, like other major cloud providers, has its own glossary because cloud computing involves a vast array of specialized terms.  These terms can be confusing or ambiguous to those unfamiliar with cloud concepts. A dedicated glossary helps users:
+
+-  **Understand Documentation:** GCP documentation uses specific terminology.  A glossary ensures readers can quickly find definitions.
+-  **Communicate Effectively:** A glossary provides a common vocabulary for developers, administrators, and users working with GCP.
+-  **Reduce Ambiguity:** Many terms have specific meanings in the context of cloud computing.  A glossary clarifies these meanings.
+- **Onboard New Users:** A glossary is helpful for those new to GCP.
 
 Glossary
 --------
