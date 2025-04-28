@@ -1,5 +1,5 @@
-Example Sphinx RST File with Glossary
-====================================
+GCP Terms
+=========
 
 This file demonstrates how to create a glossary in reStructuredText using Sphinx.
 
