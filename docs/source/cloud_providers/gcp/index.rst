@@ -6,7 +6,7 @@ This section provides documentation for Google Cloud Platform.
 .. toctree::
    :maxdepth: 1
 
-   security
-   networking
+   security.rst
+   networking.rst
    glossary.rst
    # Add other AWS services here
