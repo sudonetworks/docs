@@ -3,8 +3,6 @@ Amazon Web Services (AWS)
 
 This section provides documentation for Amazon Web Services.
 
-Services
-========
 
 .. toctree::
    :maxdepth: 1
