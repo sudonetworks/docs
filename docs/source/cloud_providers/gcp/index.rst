@@ -7,7 +7,9 @@ This section provides documentation for Google Cloud Platform.
    :maxdepth: 1
    :glob:
 
-   security/security.rst
-   networking/networking.rst
-   glossary/glossary.rst
+   security/index.rst
+   networking/index.rst
+   glossary/index.rst
+   certifications/index.rst
    # Add other AWS services here
+
