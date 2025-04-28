@@ -1,5 +1,5 @@
-Network Vendors
-===============
+Switches
+========
 
 This section provides documentation for various network hardware and software vendors.
 
