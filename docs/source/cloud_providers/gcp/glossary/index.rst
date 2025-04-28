@@ -15,6 +15,7 @@ Glossary
     Data Sovereignty
         refre to the legal concept that data is subnect
         to the laws & regulations of the country where it resides.
+        
         - Example: GDPR in EU
 
     Data residency
