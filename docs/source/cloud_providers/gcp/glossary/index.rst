@@ -18,7 +18,7 @@ Glossary
         refre to the legal concept that data is subnect
         to the laws & regulations of the country where it resides.
         
-        - Example: GDPR in EU
+        Example: GDPR in EU
 
     Data residency
         refers to the physical location where the data is stored
