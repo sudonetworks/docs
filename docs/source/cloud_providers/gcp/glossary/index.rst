@@ -1,3 +1,4 @@
+=========
 GCP Terms
 =========
 
@@ -7,11 +8,12 @@ GCP, like other major cloud providers, has its own glossary because cloud comput
 -  **Communicate Effectively:** A glossary provides a common vocabulary for developers, administrators, and users working with GCP.
 -  **Reduce Ambiguity:** Many terms have specific meanings in the context of cloud computing.  A glossary clarifies these meanings.
 - **Onboard New Users:** A glossary is helpful for those new to GCP.
-
+--------
 Glossary
 --------
 
 .. glossary::
+    
     Data Sovereignty
         refre to the legal concept that data is subnect
         to the laws & regulations of the country where it resides.
@@ -22,23 +24,29 @@ Glossary
         refers to the physical location where the data is stored
         or processed.
 
-    Another Term
+    Cloud financial Governance
         A longer definition for another term.  This shows how
         definitions can be wrapped to multiple lines.
 
-    Sphinx
+    Redundany
+        test
+    
+    Replication
+        adf
+
+    Regions
         Sphinx is a tool that makes it easy to create intelligent and beautiful
         documentation.  It is often used for Python projects.
 
-    reStructuredText (RST)
+    Scalable infrastructure
         reStructuredText is a plain text markup language, often used with
         Sphinx.
 
-    Documentation
+    Backups
         The set of documents that describe a software project,
         API, or other subject.
 
-    API
+    Obervability
         Application Programming Interface. A set of definitions
         and protocols for how software components should interact.
 
