@@ -11,5 +11,6 @@ This section provides documentation for Google Cloud Platform.
    networking/index.rst
    glossary/index.rst
    certifications/index.rst
+   gcpcmds.rst
    # Add other AWS services here
 
