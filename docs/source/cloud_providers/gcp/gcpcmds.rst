@@ -25,7 +25,7 @@ Useful GCP Commands
    --async can be used to return immediately w/o waiting for operations to complete.
    --verbose adjusts logging output. 
 
-..code::
+.. code::
 
    To get a list of zones:
 
