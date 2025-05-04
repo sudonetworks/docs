@@ -17,4 +17,5 @@ Useful GCP Commands
     a python application that lets you acces Google Cloud Storage from command line.
 
 .. code::
+   
    gcloud compute instances start <INSTANCE-NAME>
