@@ -19,3 +19,5 @@ Useful GCP Commands
 .. code::
    
    gcloud compute instances start <INSTANCE-NAME>
+
+This code allows you to start an instance. 
