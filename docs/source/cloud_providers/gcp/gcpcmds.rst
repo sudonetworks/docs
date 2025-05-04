@@ -18,6 +18,16 @@ Useful GCP Commands
 
 .. code::
    
-   **gcloud compute instances start <INSTANCE-NAME>**
-   
-   This code allows you to start an instance. 
+   To start an instance or multiple instances use the following:
+
+   gcloud compute instances start <INSTANCE-NAME> <INSTANCE-NAME2>
+
+   --async can be used to return immediately w/o waiting for operations to complete.
+   --verbose adjusts logging output. 
+
+..code::
+
+   To get a list of zones:
+
+   gcloud compute zones list
+
