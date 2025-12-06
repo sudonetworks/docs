@@ -33,6 +33,8 @@ Table of Contents
    :maxdepth: 2
    :caption: Certifications
 
+   CCIE_SEC/index
+
 .. toctree::
    :maxdepth: 2
    :caption: Networking
