@@ -1,6 +1,5 @@
 CCIE Security Notes
--------------------
-
+===================
 
 This section provides documentation for as I attempt to complete the CCIE Security.
 
