@@ -5,4 +5,4 @@ The CCIE Security Lab has been a goal of mine for a very long time. I have faile
 
 I have determined that at this point I will focus all my time and energy and get this completed next year.
 
-./Wk-1/index
+:ref:`Week 1 <./Wk-1/index.rst>`
