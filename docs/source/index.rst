@@ -31,6 +31,10 @@ Table of Contents
 
 .. toctree::
    :maxdepth: 2
+   :caption: Certifications
+
+.. toctree::
+   :maxdepth: 2
    :caption: Networking
    
    network_vendors/index
