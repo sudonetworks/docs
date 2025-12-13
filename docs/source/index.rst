@@ -73,3 +73,33 @@ Table of Contents
    cloud_providers/azure/glossary
    cloud_providers/gcp/glossary
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Phase 1: CCNP Security (350-701)
+   
+   01_ccnp_scor/security_concepts
+   01_ccnp_scor/network_security
+   01_ccnp_scor/cloud_security
+   01_ccnp_scor/content_security
+   01_ccnp_scor/endpoint_protection
+   01_ccnp_scor/secure_access_visibility
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Phase 2: CCIE Security Lab
+   
+   02_ccie_lab/lab_strategy_design
+   02_ccie_lab/perimeter_security
+   02_ccie_lab/secure_connectivity
+   02_ccie_lab/infrastructure_security
+   02_ccie_lab/identity_management
+   02_ccie_lab/threat_protection
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Engineering Notes
+   
+   notes/cisco/index
+   notes/palo_alto/index
+   notes/juniper/index
+
