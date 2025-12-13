@@ -10,7 +10,7 @@ Topics
 
 
 Network Security Fundamentals & Concepts
-========================================
+----------------------------------------
 
 - Author: Piotr Kaluzny
 - Site: INE
@@ -123,3 +123,4 @@ Examples:
     the security team is unaware of the breach. This can occur with
     zero-day exploits or new attack variants that don’t have a known
     signature.
+
